@@ -1,0 +1,8 @@
+<p class="element">Welcome To The New World</p>: تحديد القيمة بين علامتي الاقتباس الزوجي.
+<p class='element'>Welcome To The New World</p>: تحديد القيمة بين علامتي الاقتباس الفردي.
+<p class=element>Welcome To The New World</p>: تحديد القيمة بدون استخدام علامات الاقتباس.
+
+
+you can add to an attributes single quotation or double quotation.
+
+if you want to delete this quotation, and the value of an attribute is a sentence, then you can consider this value is a first of the sentence,and the rest take the same color of an attribute.

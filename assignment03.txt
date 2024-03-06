@@ -1,0 +1,3 @@
+* "The head tag is written in it a description about you website, where it doesn't show in directly way"
+* "The title tag => from closing elements"
+* "The meta tag isn't closing element" 

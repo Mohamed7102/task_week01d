@@ -1,0 +1,6 @@
+1-<meta charset="UTF-8"> بيدعم اللغة العربية في الموقع
+2-<meta name="keywords" content="web development, HTML, CSS, JavaScript">  هذا يشير ان هذه الكلمات مهمه وسوف تظهر بلون مختلف لتدل علي اهميتها في محركات البحث
+3-<meta name="description" content=""> وظيفتها وصف الموقع الخاص بك في محركات البحث
+4-<meta name="viewport" content="width=device-width, initial-scale=1.0"> هذا يعني ان يكون موقعك متجاوب مع جميع الاجهزة ومناسب لحجم تلك الاجهزة وتكون قيمة التكبير الابتدائية 0.1
+  
+
